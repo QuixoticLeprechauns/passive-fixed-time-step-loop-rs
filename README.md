@@ -9,5 +9,5 @@ This unique loop construction uses multithreading to achieve a fixed time step, 
  - Sleep granularity is system dependent. Because this loop uses sleeping to achieve a fixed time step, there is no way to improve it's timing accuracy.
 
 # Credit to [people]
-Although based on [citation], I am not the author of this variation of the passive-fixed-time-step-loop. Credit belongs to [people] for it's authorship.
+Although based on "https://github.com/QuixoticLeprechauns/passive-fixed-time-step-loop-cpp", I am not the author of this variation of the passive-fixed-time-step-loop. Credit belongs to [people] for it's authorship.
 
